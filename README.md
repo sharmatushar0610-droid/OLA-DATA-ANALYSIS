@@ -45,7 +45,7 @@ This project provides data-driven insights to solve these problems.
 9. Driver Ratings Distribution
 10. Customer vs. Driver Ratings
 ### 📊 Power BI Dashboard Preview
-![OLA Dashboard](OLA-Dashboard.png)
+![Dashboard](./OLA.PNG)
 
 ### 💡 Key Insights & Findings
 - **Success Rate:** 62% rides are successful, 28% cancelled by customers/drivers, 10% incomplete.
