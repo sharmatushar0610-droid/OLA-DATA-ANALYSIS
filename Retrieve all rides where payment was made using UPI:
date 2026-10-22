@@ -1,0 +1,1 @@
+SELECT * FROM bookings WHERE Payment_Method = 'UPI';
