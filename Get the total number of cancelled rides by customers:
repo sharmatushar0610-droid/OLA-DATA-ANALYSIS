@@ -1,0 +1,2 @@
+SELECT COUNT(*) FROM bookings
+WHERE Booking_Status = 'cancelled by Customer';
