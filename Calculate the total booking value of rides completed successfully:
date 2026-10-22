@@ -1,0 +1,3 @@
+SELECT SUM(Booking_Value) as total_successful_value 
+FROM bookings 
+WHERE Booking_Status = 'Success';
