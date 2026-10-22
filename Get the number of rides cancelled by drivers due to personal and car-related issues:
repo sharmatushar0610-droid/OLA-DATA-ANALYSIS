@@ -1,0 +1,2 @@
+SELECT COUNT(*) FROM bookings
+WHERE cancelled_Rides_by_Driver = 'Personal & Car related issue';
