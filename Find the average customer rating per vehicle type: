@@ -1,0 +1,3 @@
+SELECT Vehicle_Type, AVG(Customer_Rating) as avg_customer_rating 
+FROM bookings
+GROUP BY Vehicle_Type;
